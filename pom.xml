@@ -11,7 +11,7 @@
 	<groupId>com.capgemini.example</groupId>
 	<artifactId>002-spring-boot-Employee-Details</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>002-spring-boot-Employee-Details</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
